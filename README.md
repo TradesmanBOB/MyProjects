@@ -1,2 +1,2 @@
-# Hello World
-Hello World Repository for Git Tutorial.
+# Hello EFT
+This is the code for the web-based version of Escape The Frost; using HTML, CSS and Javascript. A survival RTS based on city building, exploration and looting of the frozen wastes after the world froze over.

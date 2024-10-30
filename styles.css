@@ -15,14 +15,14 @@ body {
     font-family: Papyrus;
     color: rgb(194, 192, 192);
     font-weight: bold;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .objective-point {
     text-align: center;
     font-family: monospace;
     color: snow;
-    font-size: 16px;
+    font-size: 25px;
 }
 
 .aligncenter1 {
@@ -30,7 +30,8 @@ body {
 }
 
 .username-insert {
-    margin-right: 15%;
+    font-size: 30px;
+    margin-right: 10%;
 }
 
 .playbutton {
